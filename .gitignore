@@ -1,5 +1,6 @@
 sesiones/
 ACTIVA.json
+__pycache__/
 *.etl
 *.pcap
 *.pcapng
