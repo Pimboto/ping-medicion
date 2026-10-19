@@ -1,0 +1,6 @@
+sesiones/
+ACTIVA.json
+*.etl
+*.pcap
+*.pcapng
+*.log
